@@ -17,3 +17,16 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+
+## Flutlab 
+Castro Luna Nancy Yazmin 
+a.21308051280331@cbtis128.edu.mx
+## Link de referencia
+https://drive.google.com/file/d/1p0bEehsZnFB0TvBkwz6rbJE8oyVkbv23/view
+## Capturas
+![image](https://github.com/CastroNancy/RutaPag-castro0331/assets/143777514/ce0d6cab-08f0-4716-877e-f36488589ac6)
+![image](https://github.com/CastroNancy/RutaPag-castro0331/assets/143777514/d437030b-c754-459d-b859-2ec278faf6d4)
+![image](https://github.com/CastroNancy/RutaPag-castro0331/assets/143777514/3aa0b36a-b70d-4b24-8aba-1b857d22472d)
+
+
+
