@@ -45,7 +45,7 @@ class Pantalla1_0331 extends StatelessWidget {
                 height: 280,
                 alignment: Alignment.center,
                 child: Text(
-                  'H',
+                  'N',
                   style: TextStyle(
                     fontSize: 150,
                     color: Color(0xff5e0000),
