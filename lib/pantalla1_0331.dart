@@ -1,3 +1,4 @@
+//Pantalla1_0331
 import 'package:flutter/material.dart';
 
 class Pantalla1_0331 extends StatelessWidget {
@@ -7,19 +8,63 @@ class Pantalla1_0331 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-          title: const Text("Pantalla1_0331"),
-          backgroundColor: Colors.orange),
+        title: Text(
+          "Pantalla1 Castro0331",
+          style: TextStyle(
+            fontSize: 25,
+            fontStyle: FontStyle.italic,
+            color: Color(0xffffffff),
+          ),
+        ),
+        backgroundColor: Color(0xffff0000),
+      ),
       body: Center(
         child: Column(
           children: [
             Container(
-              padding: const EdgeInsets.all(16.0),
-              child: const Text("Castro Ejemplo",
-                  style: TextStyle(fontSize: 34.0)),
-            )
-          ],
+              child: Text(
+                "Nancy Yazmin Castro Luna ",
+                style: TextStyle(
+                  fontSize: 25,
+                  color: Color(0xffe80000),
+                ),
+              ),
+            ),
+            Align(
+              alignment: Alignment.topCenter,
+              child: Container(
+                margin: EdgeInsets.only(top: 20),
+                decoration: BoxDecoration(
+                  shape: BoxShape.circle,
+                  border: Border.all(
+                    color: Color(0xff970000),
+                    width: 8,
+                  ),
+                ),
+                width: 280,
+                height: 280,
+                alignment: Alignment.center,
+                child: Text(
+                  'H',
+                  style: TextStyle(
+                    fontSize: 150,
+                    color: Color(0xff5e0000),
+                  ),
+                ),
+              ),
+            ),
+            Container(
+              child: Text(
+                "Aterrizaje Mat 21308051280331 ",
+                style: TextStyle(
+                  fontSize: 20,
+                  color: Color(0xff2c0000),
+                ),
+              ),
+            ),
+          ], //Niños
         ),
       ),
     );
-  }
-}
+  } //Fin widget
+} //Fin pantalla1
